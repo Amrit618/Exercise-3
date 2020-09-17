@@ -1,0 +1,4 @@
+shoes
+clothes 
+laptop
+computer
