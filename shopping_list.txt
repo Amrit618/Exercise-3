@@ -2,4 +2,3 @@ shoes
 clothes 
 laptop
 computer
-household materials
