@@ -1,4 +1,5 @@
 Hello this is about story.
 I am including all these contents for the task of software development tools.
 Here we are going to changes different commits.
-in fact the learning of version control is very fun 
+in fact the learning of version control is very fun
+and now i am using stash 
